@@ -1,4 +1,4 @@
-# Circle Detection Using Hough Transform
+# Circle Detection 
 
 ## Overview
 This project focuses on detecting and counting circles in images using the Hough Circle Transform implemented in OpenCV.
