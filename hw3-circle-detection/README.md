@@ -14,9 +14,6 @@ The dataset contains images of logs and pipes with different sizes and backgroun
 6. Visualize the results.
 
 ## Conclusion
-The Hough Circle Transform works well for clearly defined circular objects. However, detection accuracy decreases with noise, overlapping objects, and irregular shapes.
-
-## Conclusion
 
 In this project, the Hough Circle Transform was used to detect and count circular objects in seven images. Different parameters and preprocessing techniques were applied to improve detection accuracy.
 
